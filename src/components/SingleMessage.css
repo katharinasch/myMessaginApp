@@ -1,0 +1,11 @@
+li:nth-child(even) {
+	float: left;
+  background: #2a9d8f;
+  color: #fff;
+}
+
+li:nth-child(odd) {
+	float: right;
+  background: #0084ff;
+  color: #fff;
+}
